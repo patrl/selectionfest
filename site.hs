@@ -19,11 +19,22 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "*.org" $ do
-      route  $ setExtension "html"
-      compile $ pandocCompiler
-              >>= loadAndApplyTemplate "templates/default.html" defaultContext
-              >>= relativizeUrls
+    match "index.html" $ do
+      route idRoute
+      compile $ do
+        let indexCtx =
+              defaultContext
+
+        getResourceBody
+          >>= applyAsTemplate indexCtx
+          >>= loadAndApplyTemplate "templates/default.html" indexCtx
+          >>= relativizeUrls
+
+    -- match "*.org" $ do
+    --   route  $ setExtension "html"
+    --   compile $ pandocCompiler
+    --           >>= loadAndApplyTemplate "templates/default.html" defaultContext
+    --           >>= relativizeUrls
 
     -- create ["archive.html"] $ do
     --     route idRoute
