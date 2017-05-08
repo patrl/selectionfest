@@ -11,6 +11,10 @@ main = hakyllWith config $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "css/*.hs" $ do
+          route   $ setExtension "css"
+          compile $ getResourceString >>= withItemBody (unixFilter "runghc" [])
+
     match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
@@ -18,8 +22,7 @@ main = hakyllWith config $ do
     match "about.org" $ do
       route  $ setExtension "html"
       compile $ pandocCompiler
-              >>= loadAndApplyTemplate "templates/default.html"
-              >>defaultContext
+              >>= loadAndApplyTemplate "templates/default.html" defaultContext
               >>= relativizeUrls
 
     -- match (fromList ["about.rst", "contact.markdown"]) $ do
