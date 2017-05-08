@@ -15,6 +15,13 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "about.org" $ do
+      route  $ setExtension "html"
+      compile $ pandocCompiler
+              >>= loadAndApplyTemplate "templates/default.html"
+              >>defaultContext
+              >>= relativizeUrls
+
     -- match (fromList ["about.rst", "contact.markdown"]) $ do
     --     route   $ setExtension "html"
     --     compile $ pandocCompiler
