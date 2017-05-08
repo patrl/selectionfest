@@ -7,26 +7,26 @@ import           Hakyll
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-    match "images/*" $ do
+  match "images/*" $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "css/*" $ do
+  match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "*.html" $ do
-      route idRoute
-      compile $ do
-        let indexCtx =
-              defaultContext
+  match "*.html" $ do
+    route idRoute
+    compile $ do
+      let indexCtx =
+            defaultContext
 
-        getResourceBody
-          >>= applyAsTemplate indexCtx
-          >>= loadAndApplyTemplate "templates/default.html" indexCtx
-          >>= relativizeUrls
+      getResourceBody
+        >>= applyAsTemplate indexCtx
+        >>= loadAndApplyTemplate "templates/default.html" indexCtx
+        >>= relativizeUrls
 
-        match "templates/*" $ compile templateBodyCompiler
+  match "templates/*" $ compile templateBodyCompiler
 
 config :: Configuration
 config = defaultConfiguration
