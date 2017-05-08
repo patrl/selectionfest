@@ -19,8 +19,8 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
-    match "about.org" $ do
-      route  $ setExtension "html"
+    match "./*.org" $ do
+    route  $ setExtension "html"
       compile $ pandocCompiler
               >>= loadAndApplyTemplate "templates/default.html" defaultContext
               >>= relativizeUrls
