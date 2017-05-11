@@ -1,4 +1,4 @@
-(Download the call as a `.pdf` [here](/documents/berlinWorkshopCall.pdf).)
+(Download the call as a `.pdf` <a href="/documents/berlinWorkshopCall.pdf" class="link dim">here</a>.
 
 Since the earliest days of generative linguistics, the mechanism of
 *selection* has been the subject of intense scrutiny.

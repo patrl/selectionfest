@@ -1,4 +1,4 @@
-*Selectionfest 2017* is a workshop aimed at bringing together linguists investigating *mechanisms of selection*, broadly construed.
+*Selectionfest 2017* <a href="">is</a> a workshop aimed at bringing together linguists investigating *mechanisms of selection*, broadly construed.
 
 ### Invited Speakers:
 
