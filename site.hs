@@ -4,9 +4,18 @@ import           Data.Monoid (mappend)
 import           Control.Monad (liftM)
 import           Hakyll
 import           Text.Pandoc.Options
+import qualified Data.ByteString.Lazy.Char8 as C
+import           Text.Jasmine
 
 
 --------------------------------------------------------------------------------
+
+compressJsCompiler :: Compiler (Item String)
+compressJsCompiler = do
+  let minifyJS = C.unpack . minify . C.pack . itemBody
+  s <- getResourceString
+  return $ itemSetBody (minifyJS s) s
+
 main :: IO ()
 main = hakyllWith config $ do
   match "images/*" $ do
@@ -20,6 +29,10 @@ main = hakyllWith config $ do
   match "css/*" $ do
         route   idRoute
         compile compressCssCompiler
+
+  match "js/*" $ do
+    route   idRoute
+    compile compressJsCompiler
 
   match "*.md" $ do
         route   $ setExtension "html"
