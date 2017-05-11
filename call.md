@@ -1,3 +1,8 @@
+---
+title: Call for Papers
+---
+
+
 Since the earliest days of generative linguistics, the mechanism of
 *selection* has been the subject of intense scrutiny.
 @grimshaw_complement_1979 famously argued that lexical items may impose
