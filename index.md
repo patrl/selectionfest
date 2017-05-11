@@ -1,4 +1,5 @@
-*Selectionfest 2017* <a href="">is</a> a workshop aimed at bringing together linguists investigating *mechanisms of selection*, broadly construed.
+*Selectionfest 2017* a workshop aimed at bringing together linguists investigating *mechanisms of selection*, organized by the [Research Unit on (Experimental) Syntax and Heritage Languages](https://www.angl.hu-berlin.de/research/respro/RUESHeL) at the Humboldt-Universität zu Berlin and the [Leibniz-Zentrum Allgemeine Sprachwissenschaft](http://zas.gwz-berlin.de/), with support from AL 554/8-1 (DFG Gottfried Wilhelm Leibniz Preis 2014 to Artemis Alexiadou)
+
 
 ### Invited Speakers:
 
