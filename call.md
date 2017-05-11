@@ -1,5 +1,3 @@
-(Download the call as a `.pdf` <a href="/documents/berlinWorkshopCall.pdf" class="link dim">here</a>.
-
 Since the earliest days of generative linguistics, the mechanism of
 *selection* has been the subject of intense scrutiny.
 @grimshaw_complement_1979 famously argued that lexical items may impose
@@ -69,7 +67,7 @@ the following:
 
 -   Event structure and selection [@grano_sub20; @rawlinsWhite2017].
 
-Submissions should be anonymous, and submitted via Easychair (submission link TBA). Please ensure that your abstract fulfills the following requirements:
+Submissions should be anonymous, and submitted via Easychair. Please ensure that your abstract fulfills the following requirements:
 
 - `.pdf` format
 - Two pages + any additional space required for references.
@@ -77,6 +75,8 @@ Submissions should be anonymous, and submitted via Easychair (submission link TB
 - 1-inch/2.5cm margins.
 - A4 paper.
 - Any examples interspersed throughout, not gathered at the end.
+
+submission link: [https://easychair.org/conferences/?conf=selfest2017](https://easychair.org/conferences/?conf=selfest2017)
 
 ### References
 
