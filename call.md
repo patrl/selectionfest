@@ -69,6 +69,15 @@ the following:
 
 -   Event structure and selection [@grano_sub20; @rawlinsWhite2017].
 
+Submissions should be anonymous, and submitted via Easychair (submission link TBA). Please ensure that your abstract fulfills the following requirements:
+
+- `.pdf` format
+- Two pages + any additional space required for references.
+- Times, 12pt.
+- 1-inch/2.5cm margins.
+- A4 paper.
+- Any examples interspersed throughout, not gathered at the end.
+
 ### References
 
 [^1]: <http://www.owid.de/plus/zasembed2017/>
