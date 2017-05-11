@@ -8,23 +8,38 @@
         <link rel="stylesheet" href="/css/tachyons.min.css" />
     </head>
     <body>
-        <nav class="pa3 pa4-ns">
-            <a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="#" title="Home">selectionFest 2017</a>
-            <div class="tc pb3">
-                <a class="link dim gray f6 f5-ns dib mr3" href="#" title="Home">Home</a>
-                <a class="link dim gray f6 f5-ns dib mr3" href="#" title="About">Call</a>
-                <a class="link dim gray f6 f5-ns dib mr3" href="#" title="Store">Programme</a>
-                <a class="link dim gray f6 f5-ns dib" href="#" title="Contact">Contact</a>
+        <div class="vh-75 w-100 cover bg-center" style="background:url(/images/fernsehturm.jpg);">
+        </div>
+        <div class="measure-wide center pt4 ph2 pb5 mw100">
+            <header class="tc ph4">
+                <h1 class="f3 f2-m f1-l fw2 black-90 mv3">
+                    <a href="/" title="home" class="black link">SelectionFest 2017</a>
+                </h1>
+                <h2 class="f5 f4-m f3-l fw2 black-50 mt0 lh-copy">
+                    Berlin, 10-11.11.2017
+                </h2>
+                <nav class="f5 f4-m f3-l fw2 mid-gray mt0 lh-copy" role="navigation">
+                    <a href="/" class="link dim mid-gray">Home</a>
+                    &nbsp;
+                    <a href="/call.html" class="link dim mid-gray">Call</a>
+                    &nbsp;
+                    <a href="/programme.html" class="link dim mid-gray">Programme</a>
+                    &nbsp;
+                    <a href="/registration.html" class="link dim mid-gray">Registration</a>
+                    &nbsp;
+                    <a href="/venue.html" class="link dim mid-gray">Venue</a>
+                    &nbsp;
+                </nav>
+            </header>
+            <div class="pt2 pt4-ns athelas">
+                $body$
             </div>
-        </nav>
-       $body$
-        <footer class="pv4 ph3 ph5-m ph6-l mid-gray">
-            <small class="f6 db tc">© 2017 The organizers of selectionFest.</small>
-            <!-- <div class="tc mt3"> -->
-            <!-- <a href="/language/" title="Language" class="f6 dib ph2 link mid-gray dim">Language</a> -->
-            <!-- <a href="/terms/"    title="Terms" class="f6 dib ph2 link mid-gray dim">Terms of Use</a> -->
-            <!-- <a href="/privacy/"  title="Privacy" class="f6 dib ph2 link mid-gray dim">Privacy</a> -->
-            <!-- </div> -->
+        </div>
+        <footer class="bt b--light-gray f6 gray pa5">
+            <div class="measure-wide tc center ph2">
+                <p>© 2017 The organizers of selectionFest.</p>
+                <p>Built using <a href="https://jaspervdj.be/hakyll/" class="link dim">Hakyll</a> and <a href="http://tachyons.io/" class="link dim">Tachyons</a>.</p>
+            </div>
         </footer>
     </body>
 </html>
