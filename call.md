@@ -49,8 +49,7 @@ the following:
 -   The semantics of declarative vs.interrogative clausal embedding
     [@lahiri_questions_2002; @theiler2014; @uegaki_interpreting_2015; @theileretalSubmitted].
 
--   Re-examination of @pesetsky_paths_1982’s ([-@pesetsky_paths_1982])
-    elimination of c-selection in light of challenges to traditional
+-   Re-examination of elimination of c-selection [@pesetsky_paths_1982] in light of challenges to traditional
     Case theory
     [@marantz:1991short; @mcfadden:dissshort; @baker:casepp].
 
