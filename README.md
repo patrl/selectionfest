@@ -1,7 +1,7 @@
 Dependencies:
 
 - [Stack](https://www.haskellstack.org)
-- [npm](https://www.npmjs.com/).
+- [npm](https://www.npmjs.com/)
 
 To build this site locally:
 
