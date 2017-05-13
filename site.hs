@@ -26,9 +26,13 @@ main = hakyllWith config $ do
         route   idRoute
         compile copyFileCompiler
 
-  match "css/*" $ do
-        route   idRoute
-        compile compressCssCompiler
+  match "node_modules/tachyons/css/tachyons.min.css" $ do
+        route $ customRoute (const "css/tachyons.min.css")
+        compile copyFileCompiler
+
+  match "node_modules/jquery/dist/jquery.slim.min.js" $ do
+        route $ customRoute (const "js/jquery.slim.min.js")
+        compile copyFileCompiler
 
   match "js/*" $ do
     route   idRoute
