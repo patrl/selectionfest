@@ -49,17 +49,6 @@ main = hakyllWith config $ do
 
   match "cls/*" $ compile cslCompiler
 
-  match "*.html" $ do
-    route idRoute
-    compile $ do
-      let indexCtx =
-            defaultContext
-
-      getResourceBody
-        >>= applyAsTemplate indexCtx
-        >>= loadAndApplyTemplate "templates/default.html" indexCtx
-        >>= relativizeUrls
-
   match "templates/*" $ compile templateBodyCompiler
 
 config :: Configuration
