@@ -1,5 +1,0 @@
----
-title: Registration
----
-
-### Under Construction
