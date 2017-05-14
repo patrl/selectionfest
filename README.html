@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>SelFest2017: Venue</title>
+        <title>SelFest2017: README</title>
         <link rel="stylesheet" href="./css/tachyons.min.css" />
         <script src="./js/jquery.slim.min.js"></script>
     </head>
@@ -33,7 +33,33 @@
                 </nav>
             </header>
             <div class="pt2 pt4-ns garamond navy">
-                <h3 id="under-construction">Under Construction</h3>
+                <p><a href="http://patrickdelliott.com/selectionfest" class="uri">http://patrickdelliott.com/selectionfest</a></p>
+<p>Dependencies:</p>
+<ul>
+<li><a href="https://www.haskellstack.org">Stack</a></li>
+<li><a href="https://www.npmjs.com/">npm</a></li>
+</ul>
+<p>To build this site locally:</p>
+<ul>
+<li>Clone the <code>develop</code> branch of this repo to a local dir, and <code>cd</code> into it.</li>
+</ul>
+<pre><code>git clone -b develop --singlebranch https://github.com/patrl/selectionfest.git
+cd selectionfest</code></pre>
+<ul>
+<li>Setup the haskell environment with stack.</li>
+</ul>
+<pre><code>stack init
+stack setup
+stack build</code></pre>
+<ul>
+<li>Install the javascript dependencies with npm.</li>
+</ul>
+<pre><code>npm install</code></pre>
+<ul>
+<li>Build the site and host at a local server:</li>
+</ul>
+<pre><code>stack exec site build
+stack exec site watch</code></pre>
             </div>
         </div>
         <footer class="f6 light-purple pa5 garamond">
