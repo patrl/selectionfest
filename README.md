@@ -1,3 +1,5 @@
+<http://patrickdelliott.com/selectionfest>
+
 Dependencies:
 
 - [Stack](https://www.haskellstack.org)
