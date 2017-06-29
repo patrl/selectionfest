@@ -15,7 +15,7 @@ title: Home
 
 ### Important Dates:
 
-* Abstract submission deadline: June 30, 2017
+* Abstract submission deadline: ~~June 30~~ July 14, 2017
 * Notification of acceptable: August 10, 2017
 * Workshop: November 10-11, 2017
 
