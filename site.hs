@@ -6,8 +6,6 @@ import           Hakyll
 import           Text.Pandoc.Options
 import qualified Data.ByteString.Lazy.Char8 as C
 import           Text.Jasmine
-
-
 --------------------------------------------------------------------------------
 
 compressJsCompiler :: Compiler (Item String)
