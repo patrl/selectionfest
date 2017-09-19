@@ -42,6 +42,11 @@ main = hakyllWith config $ do
           >>= loadAndApplyTemplate "templates/default.html" defaultContext
           >>= relativizeUrls
 
+  match "programme.html" $ do
+    route idRoute
+    compile $ bibtexCompiler "cls/chicago-author-date.csl" "bib/elliott_mybib.bib"
+      >>= loadAndApplyTemplate "templates/default.html" defaultContext
+      >>= relativizeUrls
 
   match "bib/*" $ compile biblioCompiler
 
