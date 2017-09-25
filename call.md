@@ -2,7 +2,7 @@
 title: Call for Papers
 ---
 
-
+<div class="pt2 pt4-ns garamond navy lh-copy measure">
 Since the earliest days of generative linguistics, the mechanism of
 *selection* has been the subject of intense scrutiny.
 @grimshaw_complement_1979 famously argued that lexical items may impose
@@ -87,3 +87,5 @@ submission link: [https://easychair.org/conferences/?conf=selfest2017](https://e
 [^1]: <http://www.owid.de/plus/zasembed2017/>
 
 [^2]: <http://decomp.net/megaattitude>
+
+</div>

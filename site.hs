@@ -36,17 +36,15 @@ main = hakyllWith config $ do
     route   idRoute
     compile compressJsCompiler
 
+  match "css/*" $ do
+    route idRoute
+    compile compressCssCompiler
+
   match "*.md" $ do
         route   $ setExtension "html"
         compile $ bibtexCompiler "cls/chicago-author-date.csl" "bib/elliott_mybib.bib"
           >>= loadAndApplyTemplate "templates/default.html" defaultContext
           >>= relativizeUrls
-
-  match "programme.html" $ do
-    route idRoute
-    compile $ bibtexCompiler "cls/chicago-author-date.csl" "bib/elliott_mybib.bib"
-      >>= loadAndApplyTemplate "templates/default.html" defaultContext
-      >>= relativizeUrls
 
   match "bib/*" $ compile biblioCompiler
 
