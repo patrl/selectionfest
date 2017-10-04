@@ -34,7 +34,16 @@
 ***
 
 - 14:00 - 15:00
- ~ Poster session
+ ~ Poster session:
+ ~ - Toru Ishii: "Complementizer Stacking and "Dual Selections" in CP Peripheries"
+ ~ - Kajsa Sjarv: "Definite CPs: revisiting the selectional restrictions of attitude predicates"
+ ~ - Spencer Kaplan and Kajsa Djarv: "Embedded V2 is Anti-licensed by Discourse Familiarity"
+ ~ - Philipp Weisser: "A Purely Morphological Account to Pseudo-Noun Incorporation in Tamil and beyond"
+ ~ - Marwan Jarrah: "Clausal complements of factive verbs as DPs in Jordanian Arabic"
+ ~ - Floris Roelofsen and Wataru Uegaki: "Responsive modal particles: the case of Japanese "darou""
+ ~ - Rachel Nye: "Rethinking the distribution of finite complement clauses: evidence from complementiser-how clauses"
+ ~ - Thom van Gessel, Alexandre Cremers and Floris Roelofsen: "Acceptability of interrogatives under be certain"
+ ~ - Duygu Göksu: "Theta Role Effect in Nominalizer Selection: Evidence from Turkish"
 
 ***
 
