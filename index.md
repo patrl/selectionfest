@@ -20,6 +20,10 @@ title: Home
 * Notification of acceptance: August 17, 2017
 * Workshop: November 10-11, 2017
 
+### Location
+
+The workshop will take place at the Zentrum für Literatur- und Kulturforschung, room 308 (Trajekteraum), Schützenstr. 18, 10117 Berlin.
+
 ### Organizers
 
 * [Patrick D. Elliott](http://patrickdelliott.com) (Leibniz-ZAS)

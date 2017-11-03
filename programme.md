@@ -1,5 +1,8 @@
 ### Friday, November 10
 
+
+The workshop will take place at the Zentrum für Literatur- und Kulturforschung, room 308 (Trajekteraum), Schützenstr. 18, 10117 Berlin.
+
 <div class="avenir">
 ***
 
