@@ -22,7 +22,7 @@ title: Home
 
 ### Organizers
 
-* [Patrick D. Elliott](http://patrickdelliott.com) (UCL)
+* [Patrick D. Elliott](http://patrickdelliott.com) (Leibniz-ZAS)
 * [Itamar Kastner](http://amor.cms.hu-berlin.de/~kastneri/) (HU)
 * [Thomas McFadden](http://www.zas.gwz-berlin.de/mitarbeiter_mcfadden.html) (ZAS)
 

@@ -36,8 +36,8 @@
 - 14:00 - 15:00
  ~ Poster session:
  ~ - Toru Ishii: "Complementizer Stacking and "Dual Selections" in CP Peripheries"
- ~ - Kajsa Sjarv: "Definite CPs: revisiting the selectional restrictions of attitude predicates"
- ~ - Spencer Kaplan and Kajsa Djarv: "Embedded V2 is Anti-licensed by Discourse Familiarity"
+ ~ - Kajsa Djärv: "Definite CPs: revisiting the selectional restrictions of attitude predicates"
+ ~ - Spencer Kaplan and Kajsa Djärv: "Embedded V2 is Anti-licensed by Discourse Familiarity"
  ~ - Philipp Weisser: "A Purely Morphological Account to Pseudo-Noun Incorporation in Tamil and beyond"
  ~ - Marwan Jarrah: "Clausal complements of factive verbs as DPs in Jordanian Arabic"
  ~ - Floris Roelofsen and Wataru Uegaki: "Responsive modal particles: the case of Japanese "darou""
@@ -111,7 +111,7 @@
 
 - 14:00 - 15:00
  ~ **Invited talk**: Keir Moulton
- ~ "Concealed propositions: are there any?"
+ ~ "Nouny Propositions"
 
 ***
 
