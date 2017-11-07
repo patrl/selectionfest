@@ -6,14 +6,14 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 <div class="avenir">
 ***
 
-- 9:20 - 9:30
+- 9:15 - 9:30
  ~ Welcome
 - 9:30 - 10:30
  ~ **Invited talk**: Barbara Stiebels
  ~ "The role of polysemy in clausal complement selection"
 - 10:30 - 11:10
  ~ Beata Trawinski, Anne Mucha, Jutta Hartmann and Angelika Wöllstein
- ~ "Anti-(Subject-)Control and the Selectional Preferences of Clause-embedding Verbs"
+ ~ ["Anti-(Subject-)Control and the Selectional Preferences of Clause-embedding Verbs"](/documents/SelFest_2017_abstract_19.pdf)
 
 ***
 
@@ -24,10 +24,10 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 
 - 11:30 - 12:10
  ~ Ryan Bochnak and Emily Hanink
- ~ "Selection and complement clause size in Washo"
+ ~ ["Selection and complement clause size in Washo"](/documents/SelFest_2017_abstract_5.pdf)
 - 12:10 - 12:50
  ~ Sampson Korsah and Andrew Murphy
- ~ "Against CP Selection: Evidence from DP shells in Kwa"
+ ~ ["Against CP Selection: Evidence from DP shells in Kwa"](/documents/SelFest_2017_abstract_11.pdf)
 
 ***
 
@@ -38,15 +38,15 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 
 - 14:00 - 15:00
  ~ Poster session:
- ~ - Toru Ishii: "Complementizer Stacking and "Dual Selections" in CP Peripheries"
- ~ - Kajsa Djärv: "Definite CPs: revisiting the selectional restrictions of attitude predicates"
- ~ - Spencer Kaplan and Kajsa Djärv: "Embedded V2 is Anti-licensed by Discourse Familiarity"
- ~ - Philipp Weisser: "A Purely Morphological Account to Pseudo-Noun Incorporation in Tamil and beyond"
- ~ - Marwan Jarrah: "Clausal complements of factive verbs as DPs in Jordanian Arabic"
- ~ - Floris Roelofsen and Wataru Uegaki: "Responsive modal particles: the case of Japanese "darou""
- ~ - Rachel Nye: "Rethinking the distribution of finite complement clauses: evidence from complementiser-how clauses"
- ~ - Thom van Gessel, Alexandre Cremers and Floris Roelofsen: "Acceptability of interrogatives under be certain"
- ~ - Duygu Göksu: "Theta Role Effect in Nominalizer Selection: Evidence from Turkish"
+ ~ - Toru Ishii: ["Complementizer Stacking and "Dual Selections" in CP Peripheries"](/documents/SelFest_2017_abstract_3.pdf)
+ ~ - Kajsa Djärv: ["Definite CPs: revisiting the selectional restrictions of attitude predicates"](/documents/SelFest_2017_abstract_7.pdf)
+ ~ - Spencer Kaplan and Kajsa Djärv: ["Embedded V2 is Anti-licensed by Discourse Familiarity"](/documents/SelFest_2017_abstract_8.pdf)
+ ~ - Philipp Weisser: ["A Purely Morphological Account to Pseudo-Noun Incorporation in Tamil and beyond"](/documents/SelFest_2017_abstract_14.pdf)
+ ~ - Marwan Jarrah: ["Clausal complements of factive verbs as DPs in Jordanian Arabic"](/documents/SelFest_2017_abstract_15.pdf)
+ ~ - Floris Roelofsen and Wataru Uegaki: ["Responsive modal particles: the case of Japanese "darou""](/documents/SelFest_2017_abstract_16.pdf)
+ ~ - Rachel Nye: ["Rethinking the distribution of finite complement clauses: evidence from complementiser-how clauses"](/documents/SelFest_2017_abstract_18.pdf)
+ ~ - Thom van Gessel, Alexandre Cremers and Floris Roelofsen: ["Acceptability of interrogatives under be certain"](/documents/SelFest_2017_abstract_20.pdf)
+ ~ - Duygu Göksu: ["Theta Role Effect in Nominalizer Selection: Evidence from Turkish"](/documents/SelFest_2017_abstract_22.pdf)
 
 ***
 
@@ -57,10 +57,10 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 
 - 15:20 -16:00
  ~ Eman Al Khalaf and Benjamin Bruening
- ~ "Selection in coordination"
+ ~ ["Selection in coordination"](/documents/SelFest_2017_abstract_4.pdf)
 - 16:00 -16:40
  ~ Hedde Zeijlstra
- ~ "Labelling: reinstalling ‘projection by selection’"
+ ~ ["Labelling: reinstalling ‘projection by selection’"](/documents/SelFest_2017_abstract_6.pdf)
 
 ***
 
@@ -86,10 +86,10 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 
 - 9:30 - 10:30
  ~ **Invited talk**: Kerstin Schwabe 
- ~ "*Unwanted guest?* – On so-called unselected embedded German *ob*-clauses"
+ ~ ["*Unwanted guest?* – On so-called unselected embedded German *ob*-clauses"](/documents/SelFest_2017_abstract_X.pdf)
 - 10:30 - 11:10
  ~ Noa Bassel and Si Berrebi 
- ~ "Selectional split across speech verbs: non bridge islands revisited"
+ ~ ["Selectional split across speech verbs: non bridge islands revisited"](/documents/SelFest_2017_abstract_12.pdf)
 
 ***
 
@@ -100,10 +100,10 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 
 - 11:30 - 12:10
  ~ Wataru Uegaki and Yasutada Sudo
- ~ "The anti-rogativity of non-veridical preferential predicates"
+ ~ ["The anti-rogativity of non-veridical preferential predicates"](/documents/SelFest_2017_abstract_17.pdf)
 - 12:10 - 12:50
  ~ Emily Hanink
- ~ "Encoding equation through two types of selection"
+ ~ ["Encoding equation through two types of selection"](/documents/SelFest_2017_abstract_23.pdf)
 
 ***
 
@@ -125,10 +125,10 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
 
 - 15:20 - 16:00
  ~ Sandhya Sundaresan
- ~ "Modelling selectional variation for indexical shift"
+ ~ ["Modelling selectional variation for indexical shift"](/documents/selfest_monsters.pdf)
 - 16:00 - 16:40
  ~ Nick Huang, Chia-Hsuan Liao, Valentine Hacquard and Jeffrey Lidz
- ~ "Selection properties of Mandarin attitude verbs and consequences for syntactic bootstrapping"
+ ~ ["Selection properties of Mandarin attitude verbs and consequences for syntactic bootstrapping"](/documents/SelFest_2017_abstract_13.pdf)
 
 ***
 
