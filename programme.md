@@ -45,7 +45,6 @@ The workshop will take place at the Zentrum für Literatur- und Kulturforschung,
  ~ - Marwan Jarrah: ["Clausal complements of factive verbs as DPs in Jordanian Arabic"](/documents/SelFest_2017_abstract_15.pdf)
  ~ - Floris Roelofsen and Wataru Uegaki: ["Responsive modal particles: the case of Japanese "darou""](/documents/SelFest_2017_abstract_16.pdf)
  ~ - Rachel Nye: ["Rethinking the distribution of finite complement clauses: evidence from complementiser-how clauses"](/documents/SelFest_2017_abstract_18.pdf)
- ~ - Thom van Gessel, Alexandre Cremers and Floris Roelofsen: ["Acceptability of interrogatives under be certain"](/documents/SelFest_2017_abstract_20.pdf)
 
 ***
 
