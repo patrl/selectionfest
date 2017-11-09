@@ -3,7 +3,13 @@
 pkgs.haskell.lib.buildStackProject {
   name = "selectionfest";
   inherit ghc;
-  buildInputs = with pkgs; [ zlib ];
+  buildInputs = with pkgs; [
+    zlib
+    # This is necessary for the deploy command
+    git
+    stack
+  ];
   LANG = "en_US.UTF-8";
   TMPDIR = "/tmp";
+
 }
