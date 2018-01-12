@@ -1,4 +1,4 @@
-{ pkgs ? import <nixpkgs> {}, ghc ? pkgs.ghc }:
+{ pkgs ? import <nixpkgs> { }, ghc ? pkgs.ghc }:
 
 pkgs.haskell.lib.buildStackProject {
   name = "selectionfest";
@@ -6,8 +6,6 @@ pkgs.haskell.lib.buildStackProject {
   buildInputs = with pkgs; [
     zlib
     # This is necessary for the deploy command
-    git
-    stack
   ];
   LANG = "en_US.UTF-8";
   TMPDIR = "/tmp";
